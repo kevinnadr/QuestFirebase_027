@@ -19,5 +19,9 @@
 7. TAMPILAN CONFIRM DELETE DATA
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edc87063-56b1-4097-a695-65278f2879c3" />
 
+8. TAMPILAN SAAT SESUDAH HAPUS DATA
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e286b848-a6f3-4cc0-8566-a7bed7185ab3" />
+
+
 
 
