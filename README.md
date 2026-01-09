@@ -13,5 +13,11 @@
 5. TAMPILAN UNTUK HALAMAN EDIT / PROSES EDIT
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10168188-79a9-4c78-bce6-875ea01c2c19" />
 
+6. TAMPILAN SAAT BERHASIL MENGEDIT DATA (MENGUBAH BANTUL MENJADI CIREBON)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24892243-e87e-42a6-b8df-92133e849c0c" />
+
+7. TAMPILAN CONFIRM DELETE DATA
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edc87063-56b1-4097-a695-65278f2879c3" />
+
 
 
